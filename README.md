@@ -54,7 +54,7 @@
 </head>
 <body>
     <h1>LÓGICA DE PROGRAMAÇÃO</h1>
-    <h2>Atividade Avaliativa 1</h2>
+    <h2>Atividades 1, 2, 3 e 4</h2>
 
     <div class="question">
         <h3>QUESTÃO 1 DE 20: ATIVIDADE DE MÚLTIPLA ESCOLHA</h3>
